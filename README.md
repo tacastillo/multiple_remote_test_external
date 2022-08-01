@@ -1,5 +1,3 @@
 # multiple_remote_test
 
-Hello
-
-Goodbye
+Hi Josh
